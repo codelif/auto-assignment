@@ -1,0 +1,9 @@
+WAP using functions to display cube of a number.
+
+WAP to display cube of first n numbers using function.
+
+Write a program in C to convert decimal number to octal number using the function.
+
+Write a program in C to add two complex numbers using function. Hint: Take real and imaginary part of complex numbers in different variable and perform the operaton.
+
+Write a program in C to compute Fibonacci series for a range using function.

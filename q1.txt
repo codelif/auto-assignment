@@ -1,0 +1,1 @@
+WAP using functions to display cube of a number.
